@@ -1,0 +1,16 @@
+{
+  "name": "form-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "typedoc --out docs .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "typedoc": "^0.15.3",
+    "typescript": "^3.7.3"
+  }
+}
